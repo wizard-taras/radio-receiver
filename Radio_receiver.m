@@ -12,9 +12,9 @@
 % the resonant frequency
 %
 % Record of revisions:
-%          Date          Programmer       Description of change
-%       ======       ===========      ==================
-%     01/15/22      T. K. Koziupa             Original code
+%       Date         Programmer       Description of change
+%     ========      =============     =====================
+%     01/15/22      T. K. Koziupa         Original code
 % 
 % Define variables:
 %     L -- The inductance value of the RLC circuit, units: Henries;
